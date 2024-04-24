@@ -30,8 +30,8 @@ Diabetes is a chronic disease that occurs either when the pancreas does not prod
 Dataset (Kaggle): https://www.kaggle.com/datasets/iammustafatz/diabetes-prediction-dataset
 
 **2. Data Cleaning and Preparation**
-* Hot encoding Categorical data as vectors
-* Removed Outliers Based on NIL on smoking history and "OTHERS" on gender
+* Hot encoding categorical data as vectors
+* Removed Outliers based on "NO INFO" on smoking history and "OTHERS" on gender
 * Splitted dataset into 80% for training and 20% for testing
   
 **3. Exploratory Data Analysis**
