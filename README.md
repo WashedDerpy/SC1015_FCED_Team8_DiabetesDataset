@@ -2,8 +2,7 @@
 This is a Mini-Project for SC1015 (Introduction to Data Science and Artificial Intelligence) which focuses on one of the most prevalent chronic diseases, Diabetes. 
 
 # Problem Definition
-Diabetes is a chronic disease that occurs either when the pancreas does not produce enough insulin or when the body cannot effectively use the insulin it produces. Having diabetes also increases the risk of many complications such as cardiovascular disease and kidney damage. Detecting diabetes early can help pave the way for effective treatment, highlighting the importance of knowing what factors are strongly associated with diabetes. Hence, predictive models for diabetes risk are important tools for the public and public health officials. This leads us to our problem question:
-
+Diabetes is a chronic disease that occurs either when the pancreas does not produce enough insulin or when the body cannot effectively use the insulin it produces. Diabetes also raises the risk of a number of problems, including kidney damage and cardiovascular disease. Early diabetes detection can facilitate efficient treatment, underscoring the significance of understanding the variables that are highly correlated with diabetes.
 "What are the most important factors in predicting whether a person has diabetes?"
 
 # Libraries and Models
