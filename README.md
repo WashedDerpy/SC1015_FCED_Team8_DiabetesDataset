@@ -40,7 +40,7 @@ Univariate
 
 Multivariate
 * Explored relationship of each variables vs Diabetes
-Removed Outliers Based on NIL on smoking history and NIL on gender
+Removed Outliers Based on NIL on smoking history and "OTHERS" on gender
 
 **4. Model Training**
    
