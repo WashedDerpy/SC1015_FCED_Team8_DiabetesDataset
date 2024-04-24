@@ -45,7 +45,7 @@ Removed Outliers Based on NIL on smoking history and NIL on gender
 **4. Model Training**
    
 The following supervised classification machine learning models were trained on the train dataset:
-* Decision Tree
+* Logistic Regression
 * Random Forest
 * Naive Bayes
 * Neural Network
