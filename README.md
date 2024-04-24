@@ -3,6 +3,7 @@ This is a Mini-Project for SC1015 (Introduction to Data Science and Artificial I
 
 # Problem Definition
 Diabetes is a chronic disease that occurs either when the pancreas does not produce enough insulin or when the body cannot effectively use the insulin it produces. Diabetes also raises the risk of a number of problems, including kidney damage and cardiovascular disease. Early diabetes detection can facilitate efficient treatment, underscoring the significance of understanding the variables that are highly correlated with diabetes.
+
 "What are the most important factors in predicting whether a person has diabetes?"
 
 # Libraries and Models
