@@ -74,6 +74,6 @@ The same metrics were used to evaluate the performace of the new models
 **8. Insights and Conclusion**
 
 # Contributors
-* Joshua Tan
-* Harith
-* Rohan
+* Joshua Tan (Chen Kaijun)
+* Rizq Harith Bin Abdul Razak
+* Rohan Joel Kulshrestha
